@@ -1,0 +1,20 @@
+{
+  "name": "DocsonVue",
+  "version": "0.0.1",
+  "description": "Documentation on VuePress",
+  "main": "index.js",
+  "authors": {
+    "name": "Vato",
+    "email": "yigit.telyakar@gmail.com"
+  },
+  "repository": "vue/DocsonVue",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "docs:build": "vuepress build docs",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}

@@ -5,7 +5,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Docs on VuePress',
+  title: 'Vuepress Docs Boilerplate',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
